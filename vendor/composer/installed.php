@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'imply/teste-php-unit',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'luana/phpunit',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '3ebeaa4e4a96da65419139ecef8da91ae7ed4411',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'imply/teste-php-unit' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'luana/phpunit' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '3ebeaa4e4a96da65419139ecef8da91ae7ed4411',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

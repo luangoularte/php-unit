@@ -1,13 +1,13 @@
 {
-    "name": "imply/teste-php-unit",
+    "name": "luana/phpunit",
     "autoload": {
         "psr-4": {
-            "Imply\\TestePhpUnit\\": "src/"
+            "Luana\\Phpunit\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "luangoularte",
+            "name": "Luan",
             "email": "luan.ag2012@hotmail.com"
         }
     ],
